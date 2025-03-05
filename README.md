@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cole Chaloner
-- 👀 I’m interested in Speedcore, Board Games, Data Structures, Computer Graphics
-- 🌱 I’m currently learning: Computer Archetecture, Assembly
+- 👀 I’m interested in Speedcore, Board Games, Data Structures, Computer Graphics, Graph Theory.
+- 🌱 I’m currently learning: Graph Theory, Computer Graphics. 
 - You can Reach Me at: Cole_Chaloner@protonmail.com
 - 😄 Pronouns: They/Them
 
